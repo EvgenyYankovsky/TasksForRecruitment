@@ -1,6 +1,0 @@
-C:\Qt\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
-C:\Qt\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
-C:\Qt\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
-C:\Qt\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
-C:\Qt\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
-C:\Qt\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

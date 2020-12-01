@@ -1,6 +1,0 @@
-C:\Qt\pickingNumbers\pickingNumbers\bin\Debug\pickingNumbers.exe.config
-C:\Qt\pickingNumbers\pickingNumbers\bin\Debug\pickingNumbers.exe
-C:\Qt\pickingNumbers\pickingNumbers\bin\Debug\pickingNumbers.pdb
-C:\Qt\pickingNumbers\pickingNumbers\obj\Debug\pickingNumbers.csprojResolveAssemblyReference.cache
-C:\Qt\pickingNumbers\pickingNumbers\obj\Debug\pickingNumbers.exe
-C:\Qt\pickingNumbers\pickingNumbers\obj\Debug\pickingNumbers.pdb

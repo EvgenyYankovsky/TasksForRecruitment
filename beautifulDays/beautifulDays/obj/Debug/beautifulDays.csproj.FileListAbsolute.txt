@@ -1,6 +1,0 @@
-C:\Qt\beautifulDays\beautifulDays\bin\Debug\beautifulDays.exe.config
-C:\Qt\beautifulDays\beautifulDays\obj\Debug\beautifulDays.csprojResolveAssemblyReference.cache
-C:\Qt\beautifulDays\beautifulDays\bin\Debug\beautifulDays.exe
-C:\Qt\beautifulDays\beautifulDays\bin\Debug\beautifulDays.pdb
-C:\Qt\beautifulDays\beautifulDays\obj\Debug\beautifulDays.exe
-C:\Qt\beautifulDays\beautifulDays\obj\Debug\beautifulDays.pdb

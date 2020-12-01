@@ -1,6 +1,0 @@
-C:\Qt\AngryProfessor\AngryProfessor\bin\Debug\AngryProfessor.exe.config
-C:\Qt\AngryProfessor\AngryProfessor\bin\Debug\AngryProfessor.exe
-C:\Qt\AngryProfessor\AngryProfessor\bin\Debug\AngryProfessor.pdb
-C:\Qt\AngryProfessor\AngryProfessor\obj\Debug\AngryProfessor.csprojResolveAssemblyReference.cache
-C:\Qt\AngryProfessor\AngryProfessor\obj\Debug\AngryProfessor.exe
-C:\Qt\AngryProfessor\AngryProfessor\obj\Debug\AngryProfessor.pdb

@@ -1,9 +1,0 @@
-C:\Qt\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
-C:\Qt\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
-C:\Qt\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
-C:\Qt\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
-C:\Qt\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
-C:\Qt\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
-F:\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
-F:\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
-F:\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

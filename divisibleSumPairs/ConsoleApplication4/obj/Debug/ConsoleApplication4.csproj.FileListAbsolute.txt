@@ -1,6 +1,0 @@
-C:\Qt\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
-C:\Qt\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
-C:\Qt\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
-C:\Qt\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
-C:\Qt\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
-C:\Qt\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
