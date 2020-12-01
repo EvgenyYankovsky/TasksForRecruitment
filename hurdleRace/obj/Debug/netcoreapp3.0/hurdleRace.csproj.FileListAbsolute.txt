@@ -1,0 +1,11 @@
+C:\cs_notepade\hurdleRace\obj\Debug\netcoreapp3.0\hurdleRace.csprojAssemblyReference.cache
+C:\cs_notepade\hurdleRace\obj\Debug\netcoreapp3.0\hurdleRace.AssemblyInfoInputs.cache
+C:\cs_notepade\hurdleRace\obj\Debug\netcoreapp3.0\hurdleRace.AssemblyInfo.cs
+C:\cs_notepade\hurdleRace\bin\Debug\netcoreapp3.0\hurdleRace.exe
+C:\cs_notepade\hurdleRace\bin\Debug\netcoreapp3.0\hurdleRace.deps.json
+C:\cs_notepade\hurdleRace\bin\Debug\netcoreapp3.0\hurdleRace.runtimeconfig.json
+C:\cs_notepade\hurdleRace\bin\Debug\netcoreapp3.0\hurdleRace.runtimeconfig.dev.json
+C:\cs_notepade\hurdleRace\bin\Debug\netcoreapp3.0\hurdleRace.dll
+C:\cs_notepade\hurdleRace\bin\Debug\netcoreapp3.0\hurdleRace.pdb
+C:\cs_notepade\hurdleRace\obj\Debug\netcoreapp3.0\hurdleRace.dll
+C:\cs_notepade\hurdleRace\obj\Debug\netcoreapp3.0\hurdleRace.pdb

@@ -1,0 +1,11 @@
+C:\cs_notepade\Bonappetit\obj\Debug\netcoreapp3.0\Bonappetit.csprojAssemblyReference.cache
+C:\cs_notepade\Bonappetit\obj\Debug\netcoreapp3.0\Bonappetit.AssemblyInfoInputs.cache
+C:\cs_notepade\Bonappetit\obj\Debug\netcoreapp3.0\Bonappetit.AssemblyInfo.cs
+C:\cs_notepade\Bonappetit\bin\Debug\netcoreapp3.0\Bonappetit.exe
+C:\cs_notepade\Bonappetit\bin\Debug\netcoreapp3.0\Bonappetit.deps.json
+C:\cs_notepade\Bonappetit\bin\Debug\netcoreapp3.0\Bonappetit.runtimeconfig.json
+C:\cs_notepade\Bonappetit\bin\Debug\netcoreapp3.0\Bonappetit.runtimeconfig.dev.json
+C:\cs_notepade\Bonappetit\bin\Debug\netcoreapp3.0\Bonappetit.dll
+C:\cs_notepade\Bonappetit\bin\Debug\netcoreapp3.0\Bonappetit.pdb
+C:\cs_notepade\Bonappetit\obj\Debug\netcoreapp3.0\Bonappetit.dll
+C:\cs_notepade\Bonappetit\obj\Debug\netcoreapp3.0\Bonappetit.pdb

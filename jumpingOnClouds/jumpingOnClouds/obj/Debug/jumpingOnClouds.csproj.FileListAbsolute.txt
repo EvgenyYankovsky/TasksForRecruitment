@@ -1,0 +1,6 @@
+C:\Qt\jumpingOnClouds\jumpingOnClouds\bin\Debug\jumpingOnClouds.exe.config
+C:\Qt\jumpingOnClouds\jumpingOnClouds\bin\Debug\jumpingOnClouds.exe
+C:\Qt\jumpingOnClouds\jumpingOnClouds\bin\Debug\jumpingOnClouds.pdb
+C:\Qt\jumpingOnClouds\jumpingOnClouds\obj\Debug\jumpingOnClouds.csprojResolveAssemblyReference.cache
+C:\Qt\jumpingOnClouds\jumpingOnClouds\obj\Debug\jumpingOnClouds.exe
+C:\Qt\jumpingOnClouds\jumpingOnClouds\obj\Debug\jumpingOnClouds.pdb

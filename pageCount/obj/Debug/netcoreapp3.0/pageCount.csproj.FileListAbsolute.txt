@@ -1,0 +1,11 @@
+C:\cs_notepade\pageCount\bin\Debug\netcoreapp3.0\pageCount.exe
+C:\cs_notepade\pageCount\bin\Debug\netcoreapp3.0\pageCount.deps.json
+C:\cs_notepade\pageCount\bin\Debug\netcoreapp3.0\pageCount.runtimeconfig.json
+C:\cs_notepade\pageCount\bin\Debug\netcoreapp3.0\pageCount.runtimeconfig.dev.json
+C:\cs_notepade\pageCount\bin\Debug\netcoreapp3.0\pageCount.dll
+C:\cs_notepade\pageCount\bin\Debug\netcoreapp3.0\pageCount.pdb
+C:\cs_notepade\pageCount\obj\Debug\netcoreapp3.0\pageCount.csprojAssemblyReference.cache
+C:\cs_notepade\pageCount\obj\Debug\netcoreapp3.0\pageCount.AssemblyInfoInputs.cache
+C:\cs_notepade\pageCount\obj\Debug\netcoreapp3.0\pageCount.AssemblyInfo.cs
+C:\cs_notepade\pageCount\obj\Debug\netcoreapp3.0\pageCount.dll
+C:\cs_notepade\pageCount\obj\Debug\netcoreapp3.0\pageCount.pdb

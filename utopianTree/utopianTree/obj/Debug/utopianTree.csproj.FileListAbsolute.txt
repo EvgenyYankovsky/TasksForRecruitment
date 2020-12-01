@@ -1,0 +1,6 @@
+C:\Qt\utopianTree\utopianTree\bin\Debug\utopianTree.exe.config
+C:\Qt\utopianTree\utopianTree\bin\Debug\utopianTree.exe
+C:\Qt\utopianTree\utopianTree\bin\Debug\utopianTree.pdb
+C:\Qt\utopianTree\utopianTree\obj\Debug\utopianTree.csprojResolveAssemblyReference.cache
+C:\Qt\utopianTree\utopianTree\obj\Debug\utopianTree.exe
+C:\Qt\utopianTree\utopianTree\obj\Debug\utopianTree.pdb

@@ -1,0 +1,6 @@
+C:\Qt\Sequence Equation\Sequence Equation\bin\Debug\Sequence Equation.exe.config
+C:\Qt\Sequence Equation\Sequence Equation\bin\Debug\Sequence Equation.exe
+C:\Qt\Sequence Equation\Sequence Equation\bin\Debug\Sequence Equation.pdb
+C:\Qt\Sequence Equation\Sequence Equation\obj\Debug\Sequence Equation.csprojResolveAssemblyReference.cache
+C:\Qt\Sequence Equation\Sequence Equation\obj\Debug\Sequence Equation.exe
+C:\Qt\Sequence Equation\Sequence Equation\obj\Debug\Sequence Equation.pdb

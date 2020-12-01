@@ -1,0 +1,6 @@
+C:\Qt\viralAdvertising\viralAdvertising\bin\Debug\viralAdvertising.exe.config
+C:\Qt\viralAdvertising\viralAdvertising\bin\Debug\viralAdvertising.exe
+C:\Qt\viralAdvertising\viralAdvertising\bin\Debug\viralAdvertising.pdb
+C:\Qt\viralAdvertising\viralAdvertising\obj\Debug\viralAdvertising.csprojResolveAssemblyReference.cache
+C:\Qt\viralAdvertising\viralAdvertising\obj\Debug\viralAdvertising.exe
+C:\Qt\viralAdvertising\viralAdvertising\obj\Debug\viralAdvertising.pdb

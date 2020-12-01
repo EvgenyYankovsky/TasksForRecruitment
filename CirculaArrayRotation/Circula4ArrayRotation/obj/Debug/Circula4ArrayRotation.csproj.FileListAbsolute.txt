@@ -1,0 +1,6 @@
+C:\Qt\Circula4ArrayRotation\Circula4ArrayRotation\bin\Debug\Circula4ArrayRotation.exe.config
+C:\Qt\Circula4ArrayRotation\Circula4ArrayRotation\bin\Debug\Circula4ArrayRotation.exe
+C:\Qt\Circula4ArrayRotation\Circula4ArrayRotation\bin\Debug\Circula4ArrayRotation.pdb
+C:\Qt\Circula4ArrayRotation\Circula4ArrayRotation\obj\Debug\Circula4ArrayRotation.csprojResolveAssemblyReference.cache
+C:\Qt\Circula4ArrayRotation\Circula4ArrayRotation\obj\Debug\Circula4ArrayRotation.exe
+C:\Qt\Circula4ArrayRotation\Circula4ArrayRotation\obj\Debug\Circula4ArrayRotation.pdb
